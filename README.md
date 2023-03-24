@@ -40,7 +40,7 @@ The buttons allow the user to view other components of the ‘Hot Spotted’ pro
 
 #### Geospatial Open Data Sources:
 
-###### Wildfires and Climate Change Storymap: 
+###### Wildfires and Climate Change StoryMap: 
 Government of Canada, cgp_aafc 
 (https://open.canada.ca/data/en/dataset/848275de-bd08-4937-b8dd-f666e575b775) 
 
