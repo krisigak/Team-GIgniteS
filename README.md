@@ -44,12 +44,11 @@ The buttons allow the user to view other components of the ‘Hot Spotted’ pro
 
 #### Statement of Characteristics:
 
-Two apps were developed for the “Hot Spotted” project. First, the Hot Spotted App displays a
+Two apps were developed for the “Hot Spotted” project. First, **the Hot Spotted App** displays a
 map showing where wildfires have occurred in Alberta between the years 2006 and 2018. With
 increasing concerns surrounding climate change, fire regimes have been moving towards patterns of
 higher frequencies and severities, and this is only going to get worse. This web app includes 4 widgets
-for the user to explore past wildfire events and report new ones across the province of Alberta.
-
+for the user to explore past wildfire events and report new ones across the province of Alberta. 
 This smart editor feature allows for the editing of current features as well as the addition of new
 features. This means that if the user comes across a wildfire, they are able to report information
 regarding the fire type, size, and cause (other information is available to be filled out, but is not
@@ -67,7 +66,7 @@ as URLs. This tool can be used to both notify fellow Albertans about an active w
 reported, or for personal research that could result in valuable insights being made toward further
 understanding the trends in Alberta’s fire regime.
 
-Secondly, for the Alberta Wildland Urban Interface Experience Builder, this app allows the user
+Secondly, for the **Alberta Wildland Urban Interface Experience Builder**, this app allows the user
 to learn more about the wildland-urban interface (WUI) in Alberta. The builder displays a map that
 shows the population density of Alberta’s Census subdivisions along with communities along the WUI,
 which are moderate-highly densely populated, further contributing to ignition-related human activities.
