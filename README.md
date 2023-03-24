@@ -60,7 +60,7 @@ Alberta Census Data: Government of Alberta
 (https://geodiscover.alberta.ca/geoportal/rest/metadata/item/2d12dc4a0c9f49d0905c461ae2b08cc8/html)
 
 
-#### References:
+#### Works Cited:
 
 Boil-water advisory status. Regional Municipality of Wood Buffalo. (2016). Retrieved from https://web.archive.org/web/20160814184924/http://www.rmwb.ca/News-Room/RMWB-Wildfire-Information/Status--Boil-Water-Advisory.htm
 
