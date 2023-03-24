@@ -42,6 +42,44 @@ Navigating through the bookmarks, the user will be able to view wildfire hot spo
 ###### ***Button Feature:***
 The buttons allow the user to view other components of the ‘Hot Spotted’ project within the collection.
 
+###### Statement of Characteristics and App Functionality:
+
+Two apps were developed for the “Hot Spotted” project. First, the Hot Spotted App displays a
+map showing where wildfires have occurred in Alberta between the years 2006 and 2018. With
+increasing concerns surrounding climate change, fire regimes have been moving towards patterns of
+higher frequencies and severities, and this is only going to get worse. This web app includes 4 widgets
+for the user to explore past wildfire events and report new ones across the province of Alberta.
+
+This smart editor feature allows for the editing of current features as well as the addition of new
+features. This means that if the user comes across a wildfire, they are able to report information
+regarding the fire type, size, and cause (other information is available to be filled out, but is not
+required). Once the user reports the wildfire, the app will update the wildfire layer for everyone to see,
+thereby ensuring that both users and the province have up-to-date wildfire data and can respond
+accordingly. The Hot Spotted app also comes with a filter feature that can be used to examine
+Alberta’s modern wildfires using criteria such as the fire’s years, cause, and type. This is useful since it
+increases clarity since the user now has the ability to efficiently display only the data they are
+interested in, rather than having to manually navigate through a clutter of points. Furthermore, the
+bookmark feature allows the user to add bookmarks to keep track of their own additions to the web
+app and save areas of interest, again further making this app a useful education tool along with its
+ability to report. Lastly, Hot Spotted also includes a share feature that can be used to share any
+analysis, results, or maps the user has produced through a variety of social media platforms, as well
+as URLs. This tool can be used to both notify fellow Albertans about an active wildfire the user just
+reported, or for personal research that could result in valuable insights being made toward further
+understanding the trends in Alberta’s fire regime.
+
+Secondly, for the Alberta Wildland Urban Interface Experience Builder, this app allows the user
+to learn more about the wildland-urban interface (WUI) in Alberta. The builder displays a map that
+shows the population density of Alberta’s Census subdivisions along with communities along the WUI,
+which are moderate-highly densely populated, further contributing to ignition-related human activities.
+For ease of use, a bookmark feature was included to help the user swiftly navigate to the various
+wildfire hotspots in Alberta (indicated by green pins for further clarity). These hot spots were found to
+have statistically significant high occurrences of anthropogenic wildfires, hence why drawing the user’s
+attention to them is helpful since it lets them quickly observe the most significant data. Furthermore,
+because Hot Spotted aims to educate the user on both the proactive and reactive forms of wildfire
+safety, the Alberta WUI app uses button features to direct the user to the other components of the ‘Hot
+Spotted’ project depending on what aspect of Alberta wildfires they are interested in, letting them
+efficiently navigate the Hot Spotted StoryMap collection.
+
 #### Geospatial Open Data Sources:
 
 ###### Wildfires and Climate Change StoryMap: 
