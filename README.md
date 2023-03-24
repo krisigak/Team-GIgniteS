@@ -23,7 +23,7 @@ This smart edit feature allows for the editing of current features as well as th
 The filter feature can be used to filter for years, causes, and fire types that the user may be interested in.
 
 ###### ***Bookmark Feature:***
-The bookmark feature shows areas along the wildland-urban interface where there are significantly high occurrence rates of anthropogenic wildfires. The user may also add bookmarks to keep track of their own additions to the web app and save areas of interest.
+This feature allows the user to add bookmarks to keep track of their own additions to the web app and save areas of interest.
 
 ###### ***Share Feature:***
 The share feature can be used to share any analysis, results, or maps the user has produced through a variety of social media platforms, as well as, URLs.
