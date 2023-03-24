@@ -21,7 +21,7 @@ This web app displays a map showing where wildfires have occurred in Alberta bet
 
 ###### ***Smart Editor Feature:*** 
 
-This smart edit feature allows for the editing of current features as well as the addition of new features. If you see a wildfire and are able to report information regarding the fire type, size, and cause (other information is available to be filled out, but is not required), you can add it and it will update the wildfire layer for everyone to see.
+This smart editor feature allows for the editing of current features as well as the addition of new features. If you see a wildfire and are able to report information regarding the fire type, size, and cause (other information is available to be filled out, but is not required), you can add it and it will update the wildfire layer for everyone to see.
 
 ###### ***Filter Feature:***
 The filter feature can be used to filter for years, causes, and fire types that the user may be interested in.
