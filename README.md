@@ -42,7 +42,7 @@ Navigating through the bookmarks, the user will be able to view wildfire hot spo
 ###### ***Button Feature:***
 The buttons allow the user to view other components of the ‘Hot Spotted’ project within the collection.
 
-###### Statement of Characteristics and App Functionality:
+#### Our Mission Statement:
 
 Two apps were developed for the “Hot Spotted” project. First, the Hot Spotted App displays a
 map showing where wildfires have occurred in Alberta between the years 2006 and 2018. With
